@@ -1,0 +1,16 @@
+name: commitlintbot-2
+id: ari:cloud:compass:fe16f236-8ecb-4445-8586-5ebd155a2533:component/639c4a85-a7f7-47da-af17-094b43ea6ccc/ab00ccd7-cadf-4217-b182-63e9831b4f89
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ammar-knowledge/commitlintbot-2
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
